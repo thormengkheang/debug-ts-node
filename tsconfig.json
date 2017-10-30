@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "allowSyntheticDefaultImports": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "sourceMap": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": false,
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "outDir": "dist",
+      "strict": true,
+      "target": "es6"
+    },
+    "include": [ "src", "typings" ],
+    "exclude": [ "build", "dist", "node_modules" ]
+  }
+  
